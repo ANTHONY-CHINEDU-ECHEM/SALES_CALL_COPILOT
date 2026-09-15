@@ -1,0 +1,9 @@
+query,objection_type,best_doc_id
+Prospect says: 'price too high' — what should I say?,price_too_high,0
+Prospect says: 'no budget' — what should I say?,no_budget,2
+Prospect says: 'need more features' — what should I say?,need_more_features,4
+Prospect says: 'already using competitor' — what should I say?,already_using_competitor,6
+Prospect says: 'not a priority now' — what should I say?,not_a_priority_now,8
+Prospect says: 'need stakeholder buyin' — what should I say?,need_stakeholder_buyin,10
+Prospect says: 'security compliance concern' — what should I say?,security_compliance_concern,12
+Prospect says: 'implementation time concern' — what should I say?,implementation_time_concern,14

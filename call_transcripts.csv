@@ -1,0 +1,1201 @@
+call_id,rep_id,stage,objection_type,deal_size,used_recommended_play,won,transcript_snippet
+0,17,closing,already_using_competitor,15137.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1,16,negotiation,price_too_high,10552.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+2,18,negotiation,not_a_priority_now,16969.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+3,18,discovery,security_compliance_concern,1000.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+4,17,discovery,no_budget,14851.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+5,8,closing,price_too_high,164699.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+6,23,negotiation,implementation_time_concern,13195.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+7,0,demo,not_a_priority_now,4078.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+8,17,negotiation,price_too_high,4677.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+9,16,demo,no_budget,9780.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+10,10,negotiation,implementation_time_concern,2475.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+11,13,closing,implementation_time_concern,14595.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+12,20,negotiation,security_compliance_concern,1000.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+13,5,closing,need_more_features,17174.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+14,12,closing,not_a_priority_now,2340.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+15,18,closing,price_too_high,3835.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+16,10,discovery,already_using_competitor,2346.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+17,19,negotiation,no_budget,12976.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+18,20,demo,price_too_high,2384.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+19,24,demo,need_stakeholder_buyin,13294.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+20,18,closing,security_compliance_concern,20419.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+21,2,negotiation,implementation_time_concern,13577.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+22,17,demo,security_compliance_concern,5369.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+23,13,closing,security_compliance_concern,16436.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+24,6,demo,already_using_competitor,6726.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+25,7,discovery,need_more_features,4875.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+26,18,demo,implementation_time_concern,1117.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+27,16,discovery,price_too_high,6010.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+28,24,closing,security_compliance_concern,4867.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+29,10,demo,price_too_high,1326.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+30,16,closing,already_using_competitor,4135.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+31,7,discovery,security_compliance_concern,6963.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+32,17,discovery,implementation_time_concern,6277.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+33,22,demo,price_too_high,3475.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+34,23,closing,need_stakeholder_buyin,6830.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+35,24,closing,price_too_high,12206.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+36,23,demo,already_using_competitor,4029.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+37,1,closing,need_stakeholder_buyin,41265.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+38,11,closing,security_compliance_concern,6911.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+39,0,negotiation,not_a_priority_now,15556.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+40,13,discovery,price_too_high,1976.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+41,13,closing,security_compliance_concern,34420.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+42,18,discovery,not_a_priority_now,3630.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+43,17,negotiation,no_budget,7611.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+44,9,discovery,not_a_priority_now,4482.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+45,4,negotiation,price_too_high,3684.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+46,9,demo,need_more_features,15514.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+47,13,negotiation,security_compliance_concern,2503.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+48,0,demo,need_more_features,5227.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+49,23,demo,not_a_priority_now,22102.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+50,8,negotiation,need_more_features,4003.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+51,3,demo,security_compliance_concern,2513.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+52,1,closing,need_more_features,1000.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+53,24,discovery,no_budget,23486.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+54,7,closing,not_a_priority_now,16292.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+55,12,demo,price_too_high,84790.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+56,1,closing,need_stakeholder_buyin,5589.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+57,21,closing,need_more_features,8572.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+58,15,closing,security_compliance_concern,21132.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+59,14,negotiation,implementation_time_concern,6983.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+60,13,closing,security_compliance_concern,1093.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+61,2,discovery,need_more_features,4964.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+62,16,demo,implementation_time_concern,3395.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+63,4,closing,implementation_time_concern,75595.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+64,23,discovery,implementation_time_concern,4729.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+65,10,demo,no_budget,9100.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+66,10,negotiation,implementation_time_concern,62195.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+67,17,closing,need_more_features,7987.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+68,12,closing,no_budget,3492.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+69,20,demo,need_stakeholder_buyin,27005.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+70,9,closing,not_a_priority_now,3478.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+71,1,demo,not_a_priority_now,4199.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+72,10,demo,price_too_high,6358.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+73,3,discovery,not_a_priority_now,2058.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+74,8,demo,price_too_high,9102.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+75,14,discovery,implementation_time_concern,36810.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+76,22,negotiation,no_budget,2896.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+77,1,demo,implementation_time_concern,22972.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+78,3,closing,implementation_time_concern,5330.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+79,8,closing,need_stakeholder_buyin,5889.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+80,15,closing,no_budget,11525.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+81,23,discovery,need_stakeholder_buyin,4384.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+82,10,closing,price_too_high,19967.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+83,23,demo,not_a_priority_now,9199.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+84,13,discovery,not_a_priority_now,8444.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+85,0,demo,price_too_high,1000.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+86,22,discovery,implementation_time_concern,5048.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+87,11,closing,need_stakeholder_buyin,18656.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+88,18,discovery,security_compliance_concern,4563.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+89,24,negotiation,security_compliance_concern,4215.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+90,21,negotiation,implementation_time_concern,26146.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+91,22,closing,security_compliance_concern,26325.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+92,7,demo,no_budget,13269.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+93,22,discovery,need_stakeholder_buyin,11009.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+94,20,negotiation,not_a_priority_now,5921.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+95,2,closing,price_too_high,45499.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+96,19,closing,implementation_time_concern,4676.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+97,1,negotiation,not_a_priority_now,11031.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+98,0,demo,need_more_features,1729.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+99,13,negotiation,implementation_time_concern,14662.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+100,19,negotiation,already_using_competitor,5942.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+101,9,discovery,security_compliance_concern,2132.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+102,10,discovery,need_more_features,72692.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+103,1,closing,need_more_features,13247.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+104,9,discovery,price_too_high,20399.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+105,14,negotiation,implementation_time_concern,7850.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+106,19,demo,implementation_time_concern,7233.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+107,18,closing,implementation_time_concern,22816.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+108,0,discovery,price_too_high,5919.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+109,16,closing,need_more_features,15094.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+110,18,demo,no_budget,16664.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+111,5,closing,not_a_priority_now,2117.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+112,14,negotiation,already_using_competitor,3512.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+113,17,closing,no_budget,1930.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+114,10,discovery,already_using_competitor,9273.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+115,12,closing,implementation_time_concern,2953.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+116,6,closing,already_using_competitor,6520.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+117,23,demo,no_budget,4044.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+118,2,discovery,security_compliance_concern,24510.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+119,22,demo,no_budget,7988.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+120,1,discovery,not_a_priority_now,8198.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+121,16,negotiation,need_stakeholder_buyin,28786.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+122,7,demo,need_more_features,1453.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+123,6,discovery,security_compliance_concern,4895.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+124,21,closing,security_compliance_concern,2048.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+125,24,discovery,not_a_priority_now,1039.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+126,7,demo,need_stakeholder_buyin,14609.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+127,12,negotiation,implementation_time_concern,10002.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+128,23,closing,no_budget,2761.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+129,19,demo,price_too_high,4739.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+130,13,closing,price_too_high,11214.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+131,1,demo,not_a_priority_now,11131.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+132,24,closing,implementation_time_concern,4302.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+133,9,demo,need_stakeholder_buyin,17213.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+134,16,negotiation,need_stakeholder_buyin,9817.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+135,17,discovery,already_using_competitor,4978.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+136,5,discovery,no_budget,2855.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+137,16,discovery,not_a_priority_now,5955.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+138,10,discovery,need_more_features,1204.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+139,5,closing,already_using_competitor,16880.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+140,8,negotiation,need_more_features,2146.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+141,24,demo,security_compliance_concern,77146.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+142,22,discovery,security_compliance_concern,8995.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+143,1,demo,price_too_high,6631.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+144,22,closing,no_budget,7166.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+145,13,closing,no_budget,10877.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+146,7,negotiation,need_more_features,55561.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+147,0,closing,already_using_competitor,9936.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+148,15,closing,already_using_competitor,1764.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+149,14,closing,no_budget,36662.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+150,12,negotiation,not_a_priority_now,6795.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+151,13,discovery,implementation_time_concern,1612.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+152,17,discovery,security_compliance_concern,7602.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+153,18,closing,price_too_high,4169.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+154,23,negotiation,already_using_competitor,11958.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+155,16,demo,price_too_high,4400.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+156,4,closing,security_compliance_concern,4868.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+157,12,discovery,security_compliance_concern,12306.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+158,14,closing,need_more_features,3322.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+159,16,discovery,not_a_priority_now,12088.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+160,4,negotiation,price_too_high,1000.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+161,12,negotiation,security_compliance_concern,2920.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+162,1,negotiation,implementation_time_concern,7926.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+163,19,demo,already_using_competitor,7056.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+164,5,negotiation,need_stakeholder_buyin,5632.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+165,21,discovery,implementation_time_concern,6146.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+166,13,closing,need_more_features,19983.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+167,16,closing,already_using_competitor,18193.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+168,3,demo,already_using_competitor,4643.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+169,1,negotiation,need_stakeholder_buyin,10704.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+170,16,demo,already_using_competitor,37968.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+171,0,negotiation,no_budget,13496.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+172,11,demo,no_budget,2798.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+173,17,closing,implementation_time_concern,3374.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+174,14,demo,security_compliance_concern,17789.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+175,24,closing,not_a_priority_now,2296.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+176,1,closing,security_compliance_concern,10559.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+177,19,demo,already_using_competitor,40051.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+178,4,discovery,no_budget,5821.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+179,6,negotiation,implementation_time_concern,16699.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+180,19,negotiation,need_more_features,3008.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+181,13,discovery,implementation_time_concern,4091.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+182,0,discovery,price_too_high,14635.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+183,23,negotiation,price_too_high,2332.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+184,6,demo,not_a_priority_now,11797.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+185,4,negotiation,security_compliance_concern,20724.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+186,16,demo,no_budget,4125.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+187,9,demo,no_budget,5439.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+188,6,closing,need_stakeholder_buyin,11029.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+189,21,discovery,already_using_competitor,9657.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+190,2,negotiation,security_compliance_concern,6155.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+191,3,negotiation,implementation_time_concern,17623.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+192,5,demo,implementation_time_concern,17078.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+193,21,closing,implementation_time_concern,46845.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+194,3,negotiation,need_stakeholder_buyin,17175.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+195,1,negotiation,price_too_high,5257.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+196,10,closing,price_too_high,3303.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+197,8,discovery,need_more_features,86548.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+198,16,discovery,no_budget,6717.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+199,18,discovery,price_too_high,9167.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+200,0,discovery,no_budget,59674.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+201,15,closing,no_budget,21832.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+202,18,negotiation,need_stakeholder_buyin,3940.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+203,6,demo,implementation_time_concern,25325.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+204,20,demo,not_a_priority_now,7103.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+205,21,demo,already_using_competitor,2534.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+206,19,demo,no_budget,4778.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+207,1,closing,price_too_high,1861.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+208,8,discovery,need_more_features,11549.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+209,10,negotiation,security_compliance_concern,4501.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+210,15,discovery,need_more_features,9601.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+211,16,negotiation,already_using_competitor,12181.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+212,1,discovery,not_a_priority_now,10836.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+213,22,closing,need_stakeholder_buyin,62148.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+214,12,negotiation,price_too_high,2959.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+215,23,negotiation,need_stakeholder_buyin,1365.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+216,2,negotiation,security_compliance_concern,4472.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+217,6,closing,already_using_competitor,3114.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+218,5,discovery,price_too_high,20236.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+219,24,closing,implementation_time_concern,17519.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+220,23,negotiation,price_too_high,5053.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+221,15,closing,implementation_time_concern,3949.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+222,18,closing,security_compliance_concern,3105.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+223,6,closing,need_more_features,15092.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+224,17,discovery,security_compliance_concern,3945.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+225,20,discovery,need_stakeholder_buyin,6781.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+226,21,discovery,security_compliance_concern,15112.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+227,12,demo,not_a_priority_now,3212.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+228,13,negotiation,already_using_competitor,17648.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+229,4,demo,need_more_features,25973.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+230,2,closing,need_more_features,1258.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+231,19,demo,no_budget,44187.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+232,23,closing,not_a_priority_now,26042.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+233,21,demo,not_a_priority_now,17284.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+234,5,demo,security_compliance_concern,6515.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+235,17,demo,no_budget,4814.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+236,17,negotiation,need_more_features,18981.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+237,1,demo,need_more_features,41251.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+238,22,negotiation,no_budget,4473.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+239,24,discovery,need_stakeholder_buyin,7638.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+240,12,discovery,implementation_time_concern,2725.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+241,23,discovery,already_using_competitor,11158.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+242,11,negotiation,need_stakeholder_buyin,12357.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+243,24,discovery,price_too_high,35372.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+244,15,demo,implementation_time_concern,1297.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+245,18,negotiation,already_using_competitor,9628.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+246,10,discovery,not_a_priority_now,7453.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+247,22,discovery,security_compliance_concern,29647.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+248,2,demo,need_more_features,2598.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+249,3,negotiation,need_more_features,3955.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+250,1,demo,no_budget,3121.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+251,9,closing,security_compliance_concern,14594.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+252,3,discovery,implementation_time_concern,15189.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+253,0,closing,already_using_competitor,9385.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+254,15,closing,no_budget,2237.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+255,9,negotiation,need_stakeholder_buyin,4865.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+256,16,demo,implementation_time_concern,5915.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+257,4,discovery,price_too_high,5518.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+258,13,demo,implementation_time_concern,57941.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+259,9,negotiation,already_using_competitor,1577.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+260,3,negotiation,no_budget,2184.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+261,17,discovery,already_using_competitor,6325.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+262,5,negotiation,security_compliance_concern,15156.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+263,1,closing,already_using_competitor,8674.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+264,12,discovery,price_too_high,9072.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+265,11,discovery,security_compliance_concern,6437.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+266,5,discovery,security_compliance_concern,9714.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+267,4,demo,no_budget,5504.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+268,1,discovery,need_stakeholder_buyin,10798.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+269,2,closing,security_compliance_concern,6247.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+270,0,negotiation,not_a_priority_now,2871.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+271,1,discovery,not_a_priority_now,10498.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+272,8,closing,no_budget,57107.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+273,2,demo,need_stakeholder_buyin,23699.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+274,7,discovery,need_stakeholder_buyin,3751.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+275,8,negotiation,need_stakeholder_buyin,28511.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+276,9,demo,need_stakeholder_buyin,2350.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+277,20,closing,price_too_high,31670.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+278,17,discovery,implementation_time_concern,87343.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+279,3,closing,no_budget,2787.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+280,4,closing,security_compliance_concern,5607.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+281,0,closing,not_a_priority_now,1626.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+282,0,discovery,price_too_high,2677.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+283,16,discovery,already_using_competitor,9395.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+284,4,discovery,need_stakeholder_buyin,53931.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+285,0,demo,price_too_high,5491.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+286,6,closing,price_too_high,6637.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+287,8,demo,not_a_priority_now,21347.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+288,5,closing,not_a_priority_now,2815.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+289,2,closing,not_a_priority_now,3407.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+290,12,closing,already_using_competitor,6799.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+291,7,closing,price_too_high,5399.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+292,12,demo,not_a_priority_now,11239.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+293,8,discovery,implementation_time_concern,2297.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+294,0,closing,implementation_time_concern,4375.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+295,21,discovery,implementation_time_concern,13364.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+296,10,negotiation,not_a_priority_now,3229.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+297,19,closing,price_too_high,7136.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+298,12,negotiation,need_more_features,6282.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+299,15,discovery,price_too_high,36804.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+300,17,closing,implementation_time_concern,3085.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+301,13,demo,no_budget,2750.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+302,20,discovery,price_too_high,1617.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+303,15,closing,already_using_competitor,11735.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+304,8,demo,implementation_time_concern,16984.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+305,2,discovery,need_more_features,7813.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+306,13,discovery,implementation_time_concern,4945.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+307,15,demo,already_using_competitor,1670.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+308,7,demo,already_using_competitor,6380.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+309,14,demo,not_a_priority_now,17569.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+310,0,discovery,already_using_competitor,1000.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+311,7,negotiation,not_a_priority_now,5208.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+312,8,discovery,implementation_time_concern,3167.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+313,20,closing,need_more_features,9481.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+314,16,demo,not_a_priority_now,32841.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+315,19,demo,price_too_high,3074.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+316,5,discovery,need_stakeholder_buyin,10794.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+317,4,negotiation,price_too_high,7532.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+318,0,negotiation,security_compliance_concern,6231.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+319,10,closing,implementation_time_concern,9909.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+320,7,closing,already_using_competitor,1852.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+321,14,discovery,already_using_competitor,72937.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+322,13,demo,security_compliance_concern,12069.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+323,2,closing,implementation_time_concern,13599.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+324,10,negotiation,need_stakeholder_buyin,18145.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+325,20,demo,need_stakeholder_buyin,20745.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+326,24,discovery,already_using_competitor,34090.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+327,21,negotiation,price_too_high,39680.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+328,15,negotiation,no_budget,12729.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+329,10,negotiation,security_compliance_concern,4110.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+330,19,discovery,already_using_competitor,1000.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+331,20,negotiation,already_using_competitor,27825.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+332,1,negotiation,already_using_competitor,8718.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+333,20,negotiation,implementation_time_concern,1431.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+334,2,discovery,need_more_features,9120.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+335,17,negotiation,not_a_priority_now,1984.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+336,4,closing,implementation_time_concern,4990.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+337,24,negotiation,need_stakeholder_buyin,1744.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+338,17,discovery,no_budget,10102.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+339,17,closing,implementation_time_concern,5371.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+340,20,negotiation,price_too_high,14090.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+341,4,negotiation,price_too_high,15738.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+342,18,closing,already_using_competitor,11797.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+343,8,demo,price_too_high,13831.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+344,23,closing,no_budget,39145.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+345,15,negotiation,need_stakeholder_buyin,9406.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+346,14,closing,security_compliance_concern,5175.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+347,1,negotiation,already_using_competitor,15038.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+348,11,discovery,need_stakeholder_buyin,5924.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+349,4,discovery,not_a_priority_now,7102.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+350,1,closing,price_too_high,4834.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+351,24,discovery,already_using_competitor,6410.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+352,18,discovery,need_more_features,6993.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+353,18,negotiation,need_stakeholder_buyin,3956.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+354,12,discovery,no_budget,9153.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+355,19,discovery,no_budget,39356.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+356,12,discovery,need_more_features,32551.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+357,2,negotiation,need_more_features,5947.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+358,12,demo,price_too_high,27916.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+359,5,closing,already_using_competitor,8367.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+360,13,negotiation,already_using_competitor,12403.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+361,10,demo,implementation_time_concern,47047.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+362,22,closing,no_budget,10317.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+363,11,negotiation,no_budget,2148.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+364,20,closing,implementation_time_concern,13738.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+365,4,negotiation,not_a_priority_now,7580.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+366,24,closing,not_a_priority_now,8162.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+367,23,demo,need_stakeholder_buyin,26414.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+368,13,demo,no_budget,99804.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+369,18,demo,not_a_priority_now,7023.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+370,23,demo,price_too_high,60272.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+371,18,closing,already_using_competitor,43024.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+372,2,demo,not_a_priority_now,6275.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+373,2,negotiation,price_too_high,6141.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+374,4,closing,not_a_priority_now,6338.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+375,16,discovery,price_too_high,10326.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+376,16,demo,need_more_features,26486.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+377,1,closing,already_using_competitor,5011.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+378,7,negotiation,not_a_priority_now,30503.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+379,14,closing,security_compliance_concern,4624.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+380,3,closing,no_budget,2202.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+381,0,negotiation,already_using_competitor,24330.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+382,10,demo,need_stakeholder_buyin,4161.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+383,19,closing,implementation_time_concern,1000.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+384,0,discovery,security_compliance_concern,13752.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+385,9,discovery,security_compliance_concern,7458.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+386,10,discovery,not_a_priority_now,8495.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+387,10,demo,already_using_competitor,15796.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+388,3,negotiation,need_stakeholder_buyin,1021.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+389,24,discovery,no_budget,4018.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+390,9,closing,already_using_competitor,4131.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+391,24,discovery,already_using_competitor,1651.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+392,17,demo,implementation_time_concern,2118.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+393,18,demo,implementation_time_concern,2279.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+394,0,demo,already_using_competitor,9437.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+395,6,demo,price_too_high,26080.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+396,5,negotiation,not_a_priority_now,10145.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+397,0,discovery,implementation_time_concern,1000.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+398,5,negotiation,already_using_competitor,7523.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+399,15,negotiation,need_more_features,4768.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+400,10,closing,need_more_features,7338.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+401,2,negotiation,price_too_high,5280.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+402,12,demo,already_using_competitor,3491.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+403,7,negotiation,security_compliance_concern,10231.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+404,9,demo,need_stakeholder_buyin,6491.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+405,5,demo,not_a_priority_now,4125.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+406,7,demo,price_too_high,21350.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+407,23,demo,implementation_time_concern,3517.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+408,8,negotiation,need_more_features,9696.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+409,16,discovery,implementation_time_concern,7381.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+410,17,negotiation,need_more_features,36635.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+411,20,closing,need_more_features,50202.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+412,5,closing,implementation_time_concern,7748.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+413,22,discovery,price_too_high,4588.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+414,23,discovery,no_budget,9328.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+415,4,discovery,not_a_priority_now,9902.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+416,19,negotiation,already_using_competitor,2970.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+417,4,negotiation,not_a_priority_now,28822.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+418,22,closing,already_using_competitor,5285.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+419,24,negotiation,need_stakeholder_buyin,2578.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+420,14,demo,need_stakeholder_buyin,25209.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+421,7,demo,not_a_priority_now,12129.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+422,3,negotiation,security_compliance_concern,6492.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+423,14,closing,implementation_time_concern,12308.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+424,2,demo,need_stakeholder_buyin,1900.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+425,10,discovery,not_a_priority_now,7825.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+426,5,demo,security_compliance_concern,16159.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+427,6,closing,implementation_time_concern,7612.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+428,13,closing,need_more_features,17056.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+429,12,negotiation,need_stakeholder_buyin,18774.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+430,7,discovery,implementation_time_concern,2013.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+431,3,closing,security_compliance_concern,3583.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+432,0,negotiation,no_budget,1186.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+433,2,demo,security_compliance_concern,3819.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+434,14,demo,already_using_competitor,8716.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+435,1,closing,price_too_high,12921.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+436,0,discovery,already_using_competitor,9963.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+437,8,negotiation,need_more_features,1645.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+438,15,negotiation,implementation_time_concern,8248.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+439,14,closing,need_stakeholder_buyin,1732.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+440,1,discovery,need_more_features,14833.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+441,13,negotiation,implementation_time_concern,17296.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+442,5,discovery,need_more_features,7249.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+443,4,discovery,already_using_competitor,7462.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+444,20,demo,already_using_competitor,10167.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+445,17,closing,security_compliance_concern,4633.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+446,14,closing,no_budget,6404.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+447,23,closing,implementation_time_concern,1992.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+448,7,discovery,not_a_priority_now,4455.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+449,0,discovery,not_a_priority_now,12836.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+450,18,discovery,no_budget,15677.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+451,17,demo,security_compliance_concern,4831.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+452,24,negotiation,price_too_high,6861.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+453,10,negotiation,implementation_time_concern,2876.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+454,22,demo,not_a_priority_now,18168.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+455,5,discovery,need_more_features,57412.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+456,8,closing,price_too_high,23972.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+457,13,demo,price_too_high,7918.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+458,3,demo,need_stakeholder_buyin,11035.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+459,14,negotiation,no_budget,37466.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+460,14,negotiation,security_compliance_concern,3335.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+461,12,closing,implementation_time_concern,4528.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+462,3,negotiation,already_using_competitor,8688.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+463,13,closing,need_stakeholder_buyin,4553.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+464,12,negotiation,no_budget,9528.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+465,18,demo,implementation_time_concern,21233.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+466,6,negotiation,already_using_competitor,19243.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+467,20,demo,not_a_priority_now,7535.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+468,8,negotiation,security_compliance_concern,6559.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+469,9,negotiation,no_budget,3358.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+470,7,negotiation,need_stakeholder_buyin,13652.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+471,9,negotiation,price_too_high,20409.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+472,3,closing,security_compliance_concern,154097.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+473,7,negotiation,already_using_competitor,4644.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+474,7,closing,implementation_time_concern,4562.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+475,10,demo,security_compliance_concern,60647.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+476,23,discovery,need_more_features,5612.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+477,6,discovery,price_too_high,2082.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+478,12,discovery,implementation_time_concern,6069.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+479,15,negotiation,need_more_features,8034.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+480,13,negotiation,implementation_time_concern,11452.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+481,18,demo,no_budget,9103.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+482,21,closing,need_more_features,60616.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+483,4,closing,price_too_high,2965.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+484,9,negotiation,price_too_high,2348.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+485,18,demo,no_budget,48293.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+486,18,discovery,need_stakeholder_buyin,11367.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+487,17,demo,price_too_high,3501.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+488,10,negotiation,not_a_priority_now,8701.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+489,24,discovery,implementation_time_concern,47204.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+490,11,demo,security_compliance_concern,4600.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+491,0,closing,no_budget,67897.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+492,8,negotiation,need_stakeholder_buyin,24905.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+493,12,demo,implementation_time_concern,1913.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+494,19,negotiation,price_too_high,4102.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+495,11,demo,need_stakeholder_buyin,1000.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+496,17,negotiation,implementation_time_concern,81953.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+497,5,demo,already_using_competitor,12190.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+498,4,demo,not_a_priority_now,4907.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+499,3,negotiation,no_budget,1156.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+500,1,demo,security_compliance_concern,7703.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+501,2,closing,security_compliance_concern,5371.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+502,18,negotiation,need_stakeholder_buyin,126811.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+503,8,demo,need_more_features,8601.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+504,11,demo,need_stakeholder_buyin,2682.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+505,16,demo,already_using_competitor,12638.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+506,24,negotiation,already_using_competitor,9318.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+507,13,closing,price_too_high,15265.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+508,21,negotiation,price_too_high,8436.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+509,4,demo,price_too_high,25428.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+510,7,negotiation,implementation_time_concern,6011.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+511,20,demo,already_using_competitor,1000.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+512,23,discovery,need_stakeholder_buyin,4078.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+513,5,negotiation,price_too_high,25162.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+514,2,demo,security_compliance_concern,5505.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+515,24,negotiation,already_using_competitor,13999.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+516,4,closing,implementation_time_concern,11961.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+517,1,negotiation,price_too_high,10928.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+518,20,negotiation,price_too_high,22431.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+519,14,demo,need_stakeholder_buyin,6846.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+520,3,negotiation,no_budget,22981.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+521,12,discovery,security_compliance_concern,9486.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+522,18,negotiation,price_too_high,9545.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+523,5,negotiation,security_compliance_concern,7567.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+524,5,closing,no_budget,3046.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+525,12,demo,need_stakeholder_buyin,2658.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+526,0,discovery,implementation_time_concern,35937.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+527,7,closing,no_budget,3166.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+528,24,discovery,already_using_competitor,7332.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+529,5,closing,not_a_priority_now,3319.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+530,14,negotiation,need_stakeholder_buyin,14219.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+531,5,closing,need_more_features,14906.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+532,1,discovery,security_compliance_concern,3347.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+533,13,closing,no_budget,21409.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+534,10,demo,implementation_time_concern,1000.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+535,9,negotiation,not_a_priority_now,13281.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+536,13,discovery,implementation_time_concern,4413.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+537,21,discovery,no_budget,14807.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+538,8,closing,price_too_high,35602.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+539,4,demo,need_stakeholder_buyin,6845.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+540,4,negotiation,already_using_competitor,10406.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+541,4,demo,implementation_time_concern,15021.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+542,17,negotiation,need_stakeholder_buyin,8595.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+543,23,negotiation,no_budget,21051.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+544,23,demo,price_too_high,9688.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+545,7,demo,price_too_high,6066.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+546,22,discovery,security_compliance_concern,2207.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+547,10,negotiation,not_a_priority_now,40561.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+548,13,discovery,already_using_competitor,3974.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+549,4,closing,need_more_features,8053.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+550,14,closing,need_stakeholder_buyin,23600.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+551,8,demo,security_compliance_concern,4244.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+552,9,demo,price_too_high,19276.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+553,7,discovery,already_using_competitor,6459.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+554,3,discovery,implementation_time_concern,2511.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+555,12,discovery,no_budget,12990.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+556,6,closing,price_too_high,4571.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+557,24,closing,security_compliance_concern,12917.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+558,0,negotiation,no_budget,29820.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+559,21,demo,need_stakeholder_buyin,62338.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+560,19,closing,not_a_priority_now,4518.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+561,16,closing,not_a_priority_now,3284.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+562,24,closing,security_compliance_concern,13448.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+563,10,demo,implementation_time_concern,5603.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+564,13,closing,already_using_competitor,3982.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+565,11,discovery,security_compliance_concern,14021.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+566,18,discovery,need_stakeholder_buyin,3241.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+567,24,closing,need_more_features,2241.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+568,8,demo,security_compliance_concern,3514.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+569,0,negotiation,already_using_competitor,4248.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+570,20,negotiation,need_more_features,2140.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+571,23,closing,price_too_high,7226.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+572,7,negotiation,not_a_priority_now,16736.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+573,17,discovery,no_budget,3626.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+574,9,discovery,need_stakeholder_buyin,38579.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+575,19,closing,no_budget,4230.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+576,5,demo,need_stakeholder_buyin,6080.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+577,23,discovery,price_too_high,4543.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+578,12,discovery,already_using_competitor,20375.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+579,19,discovery,need_stakeholder_buyin,2451.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+580,7,negotiation,already_using_competitor,18570.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+581,8,negotiation,need_more_features,26722.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+582,9,discovery,already_using_competitor,48805.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+583,17,negotiation,need_stakeholder_buyin,3744.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+584,2,closing,no_budget,5879.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+585,19,negotiation,already_using_competitor,6534.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+586,0,demo,price_too_high,9033.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+587,5,closing,already_using_competitor,2260.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+588,4,discovery,need_more_features,48852.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+589,9,demo,need_more_features,12320.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+590,17,closing,price_too_high,2246.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+591,20,discovery,need_stakeholder_buyin,1934.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+592,13,negotiation,not_a_priority_now,16607.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+593,2,demo,security_compliance_concern,25055.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+594,24,negotiation,price_too_high,6211.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+595,6,closing,need_more_features,7477.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+596,4,demo,security_compliance_concern,13293.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+597,14,closing,not_a_priority_now,69315.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+598,15,demo,need_more_features,20835.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+599,0,discovery,already_using_competitor,1000.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+600,1,discovery,price_too_high,19053.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+601,16,discovery,not_a_priority_now,13554.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+602,24,closing,security_compliance_concern,5484.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+603,3,closing,implementation_time_concern,46316.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+604,14,demo,no_budget,8632.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+605,8,demo,need_stakeholder_buyin,6420.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+606,12,negotiation,already_using_competitor,5622.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+607,15,negotiation,not_a_priority_now,3357.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+608,11,negotiation,already_using_competitor,6470.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+609,2,closing,no_budget,12026.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+610,18,closing,not_a_priority_now,7631.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+611,9,demo,already_using_competitor,22681.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+612,19,demo,already_using_competitor,11486.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+613,4,discovery,not_a_priority_now,22238.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+614,11,demo,price_too_high,19186.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+615,23,negotiation,need_more_features,1000.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+616,18,discovery,security_compliance_concern,4480.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+617,9,closing,already_using_competitor,9491.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+618,23,demo,price_too_high,6798.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+619,11,closing,price_too_high,2399.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+620,1,demo,implementation_time_concern,9190.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+621,17,discovery,already_using_competitor,4647.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+622,5,demo,no_budget,2457.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+623,7,negotiation,price_too_high,21826.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+624,1,closing,not_a_priority_now,19738.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+625,12,closing,already_using_competitor,12411.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+626,21,demo,no_budget,1458.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+627,13,discovery,not_a_priority_now,4754.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+628,17,demo,need_stakeholder_buyin,2722.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+629,23,demo,implementation_time_concern,1980.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+630,21,negotiation,implementation_time_concern,5757.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+631,4,discovery,no_budget,4958.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+632,11,demo,no_budget,29764.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+633,2,demo,security_compliance_concern,44722.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+634,6,discovery,need_stakeholder_buyin,27761.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+635,19,discovery,security_compliance_concern,8936.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+636,3,closing,price_too_high,7833.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+637,4,negotiation,price_too_high,10832.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+638,21,negotiation,not_a_priority_now,9382.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+639,15,demo,security_compliance_concern,8755.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+640,21,discovery,not_a_priority_now,2553.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+641,20,discovery,need_stakeholder_buyin,7038.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+642,11,discovery,price_too_high,25308.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+643,2,closing,need_more_features,4991.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+644,20,negotiation,need_stakeholder_buyin,1000.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+645,21,demo,implementation_time_concern,10453.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+646,22,demo,need_more_features,8578.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+647,8,closing,implementation_time_concern,9046.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+648,8,demo,security_compliance_concern,10124.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+649,13,discovery,implementation_time_concern,48013.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+650,14,demo,no_budget,2170.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+651,18,discovery,security_compliance_concern,7128.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+652,2,negotiation,already_using_competitor,1986.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+653,13,negotiation,need_stakeholder_buyin,19944.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+654,8,closing,price_too_high,5338.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+655,1,negotiation,not_a_priority_now,15721.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+656,22,discovery,need_more_features,30721.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+657,21,closing,need_more_features,5451.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+658,11,negotiation,not_a_priority_now,10866.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+659,13,negotiation,security_compliance_concern,45501.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+660,11,negotiation,no_budget,18903.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+661,13,negotiation,security_compliance_concern,59371.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+662,0,demo,price_too_high,4871.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+663,2,discovery,need_more_features,1677.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+664,1,discovery,implementation_time_concern,4056.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+665,9,closing,already_using_competitor,5007.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+666,12,discovery,need_stakeholder_buyin,30736.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+667,17,discovery,not_a_priority_now,9712.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+668,7,closing,price_too_high,7768.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+669,10,negotiation,already_using_competitor,8715.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+670,0,negotiation,need_stakeholder_buyin,7708.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+671,9,negotiation,need_stakeholder_buyin,6502.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+672,8,negotiation,security_compliance_concern,2402.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+673,12,discovery,no_budget,4149.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+674,10,demo,no_budget,17185.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+675,12,closing,not_a_priority_now,3061.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+676,12,closing,security_compliance_concern,4836.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+677,8,demo,implementation_time_concern,14368.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+678,9,negotiation,already_using_competitor,8526.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+679,22,closing,need_stakeholder_buyin,2018.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+680,15,negotiation,not_a_priority_now,17547.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+681,20,negotiation,need_more_features,9368.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+682,19,demo,already_using_competitor,17865.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+683,5,demo,need_more_features,6647.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+684,2,negotiation,already_using_competitor,2971.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+685,19,discovery,need_more_features,3474.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+686,10,demo,already_using_competitor,12886.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+687,19,closing,already_using_competitor,5994.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+688,10,discovery,implementation_time_concern,2704.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+689,9,closing,not_a_priority_now,2030.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+690,19,demo,not_a_priority_now,8124.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+691,17,demo,implementation_time_concern,1698.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+692,6,closing,no_budget,11960.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+693,6,discovery,no_budget,1000.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+694,24,discovery,security_compliance_concern,4114.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+695,17,closing,need_more_features,11138.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+696,16,negotiation,no_budget,2509.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+697,11,closing,no_budget,11046.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+698,1,negotiation,already_using_competitor,25387.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+699,17,demo,already_using_competitor,7444.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+700,7,discovery,not_a_priority_now,25465.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+701,12,negotiation,need_more_features,1141.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+702,24,negotiation,need_more_features,21430.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+703,18,negotiation,need_more_features,24728.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+704,15,discovery,not_a_priority_now,4366.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+705,5,closing,implementation_time_concern,20241.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+706,12,demo,security_compliance_concern,5923.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+707,0,demo,need_stakeholder_buyin,23365.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+708,21,negotiation,need_more_features,13152.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+709,15,demo,need_stakeholder_buyin,3349.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+710,0,closing,no_budget,2995.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+711,14,demo,no_budget,1525.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+712,3,negotiation,not_a_priority_now,9936.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+713,9,demo,no_budget,8267.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+714,1,negotiation,no_budget,5460.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+715,8,closing,need_stakeholder_buyin,23877.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+716,12,discovery,already_using_competitor,1000.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+717,17,negotiation,need_more_features,5103.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+718,18,negotiation,need_more_features,36188.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+719,20,discovery,no_budget,8660.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+720,11,negotiation,not_a_priority_now,9610.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+721,20,demo,need_stakeholder_buyin,8105.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+722,5,negotiation,price_too_high,4898.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+723,17,demo,price_too_high,23006.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+724,6,negotiation,need_stakeholder_buyin,16051.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+725,3,demo,need_more_features,29791.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+726,21,closing,not_a_priority_now,1000.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+727,6,negotiation,implementation_time_concern,1765.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+728,3,closing,need_more_features,24123.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+729,24,negotiation,need_more_features,3518.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+730,22,closing,already_using_competitor,13767.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+731,7,closing,need_stakeholder_buyin,9685.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+732,18,negotiation,need_more_features,4795.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+733,22,closing,implementation_time_concern,5144.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+734,22,demo,implementation_time_concern,9722.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+735,15,discovery,implementation_time_concern,3053.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+736,2,demo,need_stakeholder_buyin,24412.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+737,12,closing,price_too_high,10559.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+738,10,demo,not_a_priority_now,44925.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+739,11,demo,not_a_priority_now,3428.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+740,1,discovery,implementation_time_concern,1643.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+741,4,discovery,not_a_priority_now,1998.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+742,19,negotiation,security_compliance_concern,6299.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+743,3,demo,need_more_features,3305.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+744,23,closing,security_compliance_concern,24672.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+745,17,demo,need_stakeholder_buyin,6964.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+746,8,closing,security_compliance_concern,4939.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+747,3,closing,need_stakeholder_buyin,1535.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+748,20,discovery,already_using_competitor,12202.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+749,12,discovery,need_more_features,1795.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+750,7,discovery,no_budget,9386.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+751,5,negotiation,need_stakeholder_buyin,4796.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+752,23,negotiation,security_compliance_concern,28441.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+753,5,negotiation,security_compliance_concern,26425.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+754,6,discovery,need_stakeholder_buyin,3481.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+755,20,discovery,not_a_priority_now,5071.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+756,11,discovery,need_more_features,8020.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+757,7,closing,price_too_high,22499.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+758,16,demo,need_stakeholder_buyin,8804.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+759,24,discovery,not_a_priority_now,8852.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+760,23,negotiation,price_too_high,15596.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+761,24,discovery,security_compliance_concern,10508.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+762,3,discovery,need_stakeholder_buyin,7924.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+763,3,closing,security_compliance_concern,2600.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+764,6,negotiation,need_more_features,44419.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+765,10,closing,security_compliance_concern,6637.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+766,3,closing,need_more_features,5158.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+767,20,closing,not_a_priority_now,3425.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+768,21,discovery,need_stakeholder_buyin,8200.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+769,13,discovery,security_compliance_concern,10562.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+770,10,discovery,security_compliance_concern,10801.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+771,24,negotiation,implementation_time_concern,9766.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+772,10,demo,not_a_priority_now,1000.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+773,4,discovery,need_more_features,16226.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+774,18,demo,no_budget,5756.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+775,3,discovery,price_too_high,24792.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+776,18,discovery,price_too_high,61008.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+777,17,negotiation,need_more_features,28083.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+778,19,closing,need_stakeholder_buyin,6966.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+779,21,closing,security_compliance_concern,22269.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+780,23,demo,price_too_high,18042.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+781,2,demo,security_compliance_concern,1765.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+782,14,demo,already_using_competitor,54280.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+783,21,negotiation,need_stakeholder_buyin,5423.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+784,9,negotiation,already_using_competitor,40611.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+785,18,closing,need_more_features,2623.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+786,5,negotiation,price_too_high,7548.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+787,20,demo,need_more_features,4819.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+788,16,demo,need_more_features,18658.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+789,14,discovery,not_a_priority_now,10769.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+790,4,negotiation,not_a_priority_now,11938.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+791,3,negotiation,no_budget,6727.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+792,12,discovery,security_compliance_concern,4514.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+793,23,discovery,already_using_competitor,3090.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+794,16,demo,already_using_competitor,7313.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+795,6,negotiation,need_stakeholder_buyin,20574.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+796,2,negotiation,not_a_priority_now,1998.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+797,20,negotiation,already_using_competitor,11458.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+798,18,demo,already_using_competitor,21871.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+799,10,closing,implementation_time_concern,5455.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+800,2,negotiation,need_stakeholder_buyin,2542.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+801,22,discovery,already_using_competitor,21805.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+802,18,demo,need_stakeholder_buyin,24311.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+803,20,negotiation,security_compliance_concern,17394.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+804,23,negotiation,implementation_time_concern,60767.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+805,16,negotiation,no_budget,4528.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+806,1,demo,need_stakeholder_buyin,8108.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+807,19,negotiation,already_using_competitor,4611.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+808,3,closing,price_too_high,10132.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+809,14,negotiation,implementation_time_concern,29460.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+810,16,discovery,price_too_high,5656.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+811,20,demo,not_a_priority_now,12961.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+812,4,closing,price_too_high,11936.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+813,5,closing,not_a_priority_now,12842.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+814,16,closing,already_using_competitor,33991.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+815,24,discovery,security_compliance_concern,26304.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+816,18,discovery,price_too_high,27502.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+817,14,demo,need_more_features,3414.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+818,6,discovery,need_stakeholder_buyin,1832.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+819,15,closing,need_more_features,4101.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+820,8,closing,implementation_time_concern,9960.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+821,13,discovery,not_a_priority_now,34148.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+822,15,negotiation,security_compliance_concern,6491.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+823,1,closing,no_budget,41432.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+824,12,negotiation,already_using_competitor,12624.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+825,5,negotiation,need_stakeholder_buyin,1242.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+826,2,discovery,security_compliance_concern,2927.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+827,21,discovery,price_too_high,1226.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+828,23,demo,implementation_time_concern,6715.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+829,21,negotiation,already_using_competitor,3070.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+830,22,demo,no_budget,5962.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+831,9,demo,already_using_competitor,35400.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+832,7,discovery,implementation_time_concern,3738.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+833,6,demo,need_more_features,6170.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+834,17,negotiation,implementation_time_concern,9693.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+835,5,negotiation,price_too_high,45516.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+836,8,negotiation,not_a_priority_now,7164.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+837,19,discovery,price_too_high,23217.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+838,11,closing,security_compliance_concern,1718.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+839,19,discovery,not_a_priority_now,3402.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+840,4,closing,implementation_time_concern,73692.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+841,23,discovery,not_a_priority_now,4815.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+842,13,demo,security_compliance_concern,7546.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+843,7,discovery,implementation_time_concern,28632.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+844,22,discovery,need_more_features,16493.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+845,19,discovery,price_too_high,11444.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+846,0,negotiation,not_a_priority_now,2410.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+847,14,demo,implementation_time_concern,2079.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+848,23,demo,implementation_time_concern,5627.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+849,14,closing,need_stakeholder_buyin,8896.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+850,17,negotiation,security_compliance_concern,43744.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+851,8,discovery,already_using_competitor,3050.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+852,23,negotiation,need_more_features,1397.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+853,3,negotiation,need_more_features,2465.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+854,11,closing,security_compliance_concern,7440.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+855,8,demo,security_compliance_concern,7120.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+856,9,discovery,no_budget,3241.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+857,8,closing,already_using_competitor,4370.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+858,23,demo,security_compliance_concern,1835.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+859,23,demo,no_budget,4039.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+860,22,discovery,security_compliance_concern,12375.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+861,5,negotiation,need_stakeholder_buyin,5057.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+862,8,negotiation,need_stakeholder_buyin,6225.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+863,13,demo,already_using_competitor,1566.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+864,2,discovery,no_budget,12090.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+865,15,discovery,need_more_features,7777.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+866,22,negotiation,need_stakeholder_buyin,16504.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+867,2,discovery,implementation_time_concern,5722.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+868,10,discovery,not_a_priority_now,13155.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+869,22,discovery,no_budget,1442.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+870,2,negotiation,already_using_competitor,10764.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+871,0,demo,not_a_priority_now,3709.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+872,22,discovery,no_budget,12149.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+873,5,demo,need_stakeholder_buyin,2360.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+874,23,negotiation,need_more_features,10493.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+875,11,closing,need_stakeholder_buyin,19643.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+876,1,closing,price_too_high,3469.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+877,18,negotiation,need_more_features,6403.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+878,23,negotiation,not_a_priority_now,5082.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+879,20,demo,not_a_priority_now,4447.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+880,15,negotiation,price_too_high,15870.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+881,10,demo,not_a_priority_now,19010.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+882,9,demo,need_more_features,3153.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+883,19,discovery,price_too_high,24396.0,0,1,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+884,12,negotiation,security_compliance_concern,8476.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+885,13,demo,need_more_features,5669.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+886,1,discovery,implementation_time_concern,6592.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+887,21,demo,not_a_priority_now,2779.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+888,21,closing,not_a_priority_now,18760.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+889,19,closing,need_more_features,5019.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+890,20,negotiation,price_too_high,5666.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+891,9,closing,implementation_time_concern,45856.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+892,20,discovery,already_using_competitor,1784.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+893,10,closing,security_compliance_concern,11243.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+894,10,closing,not_a_priority_now,5390.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+895,1,demo,implementation_time_concern,6287.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+896,2,closing,no_budget,7623.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+897,12,closing,implementation_time_concern,4390.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+898,18,demo,already_using_competitor,6035.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+899,2,discovery,no_budget,57415.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+900,6,negotiation,implementation_time_concern,10040.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+901,22,negotiation,need_stakeholder_buyin,6385.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+902,18,demo,need_stakeholder_buyin,17304.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+903,2,demo,need_stakeholder_buyin,1443.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+904,12,demo,no_budget,69530.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+905,6,negotiation,implementation_time_concern,13226.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+906,7,negotiation,need_stakeholder_buyin,4734.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+907,10,negotiation,not_a_priority_now,4567.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+908,19,demo,no_budget,1531.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+909,15,demo,not_a_priority_now,5967.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+910,4,closing,implementation_time_concern,26082.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+911,18,negotiation,need_more_features,3807.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+912,4,discovery,no_budget,13033.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+913,8,discovery,security_compliance_concern,4759.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+914,1,discovery,already_using_competitor,4814.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+915,3,demo,implementation_time_concern,5270.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+916,19,demo,need_more_features,8915.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+917,23,discovery,no_budget,2483.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+918,12,negotiation,security_compliance_concern,13933.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+919,17,demo,need_more_features,3178.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+920,3,demo,need_stakeholder_buyin,5040.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+921,3,demo,need_stakeholder_buyin,10450.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+922,24,discovery,implementation_time_concern,4909.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+923,23,closing,price_too_high,2030.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+924,10,closing,no_budget,11484.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+925,0,negotiation,need_stakeholder_buyin,8468.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+926,23,demo,implementation_time_concern,9386.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+927,8,discovery,need_more_features,6433.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+928,16,negotiation,need_stakeholder_buyin,6909.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+929,0,discovery,security_compliance_concern,5192.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+930,20,discovery,security_compliance_concern,15510.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+931,13,discovery,need_stakeholder_buyin,2464.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+932,18,demo,already_using_competitor,13174.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+933,14,discovery,need_more_features,1039.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+934,7,closing,need_more_features,1510.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+935,9,demo,need_stakeholder_buyin,1000.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+936,0,demo,no_budget,23710.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+937,14,demo,security_compliance_concern,49838.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+938,8,closing,price_too_high,7103.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+939,8,discovery,implementation_time_concern,30526.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+940,8,closing,security_compliance_concern,9798.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+941,0,demo,security_compliance_concern,8603.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+942,10,discovery,need_more_features,15882.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+943,9,discovery,security_compliance_concern,82849.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+944,16,demo,need_stakeholder_buyin,18469.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+945,19,demo,no_budget,28506.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+946,8,closing,need_stakeholder_buyin,7045.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+947,20,discovery,implementation_time_concern,5275.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+948,3,demo,no_budget,1000.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+949,18,discovery,implementation_time_concern,4608.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+950,11,closing,security_compliance_concern,14105.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+951,7,negotiation,need_stakeholder_buyin,13370.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+952,14,closing,already_using_competitor,3836.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+953,6,demo,implementation_time_concern,1651.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+954,5,discovery,need_stakeholder_buyin,1000.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+955,8,closing,already_using_competitor,10014.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+956,11,negotiation,need_more_features,11363.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+957,16,demo,already_using_competitor,5987.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+958,19,negotiation,implementation_time_concern,2046.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+959,2,closing,need_more_features,6713.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+960,14,discovery,implementation_time_concern,12588.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+961,6,demo,no_budget,8597.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+962,4,demo,need_stakeholder_buyin,4025.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+963,13,closing,not_a_priority_now,2076.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+964,18,demo,not_a_priority_now,6373.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+965,11,demo,implementation_time_concern,36962.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+966,24,closing,price_too_high,2548.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+967,4,closing,price_too_high,9472.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+968,4,demo,need_more_features,5880.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+969,16,discovery,need_more_features,20435.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+970,0,closing,not_a_priority_now,5139.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+971,22,discovery,need_more_features,4853.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+972,10,closing,already_using_competitor,3080.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+973,14,closing,implementation_time_concern,11347.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+974,10,closing,not_a_priority_now,10049.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+975,20,discovery,no_budget,1112.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+976,9,demo,no_budget,8739.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+977,17,negotiation,price_too_high,20648.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+978,10,negotiation,no_budget,50103.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+979,24,demo,not_a_priority_now,1300.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+980,12,demo,price_too_high,19931.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+981,8,demo,price_too_high,1175.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+982,13,negotiation,price_too_high,2221.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+983,20,closing,no_budget,18276.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+984,22,negotiation,need_stakeholder_buyin,5705.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+985,1,negotiation,already_using_competitor,1462.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+986,5,demo,need_stakeholder_buyin,7340.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+987,15,negotiation,not_a_priority_now,44148.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+988,9,discovery,price_too_high,1674.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+989,8,closing,implementation_time_concern,2484.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+990,13,closing,implementation_time_concern,43654.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+991,10,discovery,implementation_time_concern,9315.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+992,21,closing,implementation_time_concern,92255.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+993,12,demo,implementation_time_concern,11830.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+994,14,demo,already_using_competitor,1923.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+995,18,closing,already_using_competitor,8216.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+996,2,negotiation,need_more_features,9428.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+997,12,demo,implementation_time_concern,33735.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+998,22,discovery,already_using_competitor,21388.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+999,16,closing,not_a_priority_now,14986.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1000,14,demo,already_using_competitor,74810.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1001,20,discovery,no_budget,3855.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1002,24,negotiation,implementation_time_concern,1000.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1003,5,negotiation,not_a_priority_now,1039.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1004,22,closing,need_stakeholder_buyin,8464.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1005,22,demo,implementation_time_concern,10678.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1006,3,demo,need_stakeholder_buyin,4682.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1007,18,discovery,already_using_competitor,5657.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1008,11,negotiation,price_too_high,65817.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1009,7,discovery,already_using_competitor,14708.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1010,10,demo,need_stakeholder_buyin,76480.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1011,19,closing,security_compliance_concern,7540.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1012,14,closing,need_stakeholder_buyin,3157.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1013,13,demo,security_compliance_concern,84502.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1014,6,demo,not_a_priority_now,16415.0,0,1,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1015,18,closing,need_more_features,27081.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1016,23,closing,no_budget,43378.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1017,13,demo,price_too_high,69865.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1018,6,demo,security_compliance_concern,1000.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1019,23,demo,already_using_competitor,24360.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1020,16,demo,price_too_high,3004.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1021,2,demo,price_too_high,4167.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1022,21,demo,need_more_features,26034.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1023,12,closing,implementation_time_concern,5775.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1024,5,negotiation,implementation_time_concern,10926.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1025,0,discovery,need_stakeholder_buyin,25530.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1026,18,discovery,already_using_competitor,49216.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1027,22,demo,price_too_high,5768.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1028,15,demo,no_budget,3125.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+1029,7,demo,price_too_high,4489.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1030,23,negotiation,already_using_competitor,30741.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1031,10,closing,already_using_competitor,39666.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1032,16,demo,need_stakeholder_buyin,49958.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1033,13,negotiation,security_compliance_concern,2244.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1034,17,negotiation,price_too_high,2543.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1035,11,negotiation,security_compliance_concern,1883.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1036,22,closing,implementation_time_concern,15172.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1037,9,closing,not_a_priority_now,21895.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1038,8,negotiation,need_stakeholder_buyin,34980.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1039,1,discovery,security_compliance_concern,21541.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1040,6,closing,need_more_features,10209.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1041,5,negotiation,price_too_high,26944.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1042,19,demo,no_budget,11542.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1043,16,closing,need_stakeholder_buyin,2558.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1044,3,negotiation,security_compliance_concern,36569.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1045,3,discovery,security_compliance_concern,8630.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1046,21,closing,need_stakeholder_buyin,1597.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1047,5,demo,already_using_competitor,32710.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1048,20,demo,no_budget,7947.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1049,3,negotiation,already_using_competitor,3430.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1050,23,discovery,need_stakeholder_buyin,10106.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1051,21,negotiation,price_too_high,5104.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1052,8,discovery,need_more_features,10660.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1053,19,closing,already_using_competitor,7057.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1054,19,negotiation,need_more_features,16777.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1055,22,closing,no_budget,18635.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1056,0,demo,price_too_high,14659.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1057,2,demo,need_stakeholder_buyin,9568.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1058,22,demo,price_too_high,30442.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1059,20,closing,implementation_time_concern,4109.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1060,1,demo,no_budget,1154.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1061,20,negotiation,implementation_time_concern,4209.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1062,0,discovery,implementation_time_concern,23257.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1063,10,negotiation,implementation_time_concern,26484.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1064,5,demo,no_budget,37379.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1065,17,closing,implementation_time_concern,5380.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1066,17,demo,need_more_features,2862.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1067,9,demo,implementation_time_concern,6027.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1068,18,discovery,need_stakeholder_buyin,18366.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1069,20,demo,need_more_features,33850.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1070,22,negotiation,not_a_priority_now,3864.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1071,22,negotiation,implementation_time_concern,9094.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1072,15,discovery,security_compliance_concern,2691.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1073,22,discovery,not_a_priority_now,27494.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1074,24,demo,price_too_high,4466.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1075,7,demo,need_more_features,4246.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1076,20,discovery,already_using_competitor,9948.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1077,14,demo,not_a_priority_now,10724.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1078,21,closing,implementation_time_concern,4553.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1079,0,closing,already_using_competitor,13483.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1080,17,discovery,no_budget,297951.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1081,12,closing,not_a_priority_now,25383.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1082,7,negotiation,not_a_priority_now,2185.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1083,3,closing,security_compliance_concern,41867.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1084,11,demo,no_budget,3779.0,0,1,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+1085,19,discovery,already_using_competitor,2080.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1086,19,closing,price_too_high,15040.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1087,21,closing,already_using_competitor,20475.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1088,15,closing,implementation_time_concern,28386.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1089,8,discovery,need_more_features,24125.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1090,3,demo,not_a_priority_now,9354.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1091,23,discovery,already_using_competitor,2354.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1092,17,demo,implementation_time_concern,97822.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1093,19,closing,price_too_high,4188.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1094,15,closing,already_using_competitor,7999.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1095,21,negotiation,not_a_priority_now,4121.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1096,10,negotiation,already_using_competitor,110020.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1097,7,discovery,need_more_features,2731.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1098,0,negotiation,price_too_high,8418.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1099,1,demo,not_a_priority_now,10762.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1100,17,closing,need_stakeholder_buyin,11829.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1101,22,discovery,no_budget,22306.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1102,15,demo,security_compliance_concern,37502.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1103,17,demo,not_a_priority_now,3441.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1104,4,demo,not_a_priority_now,10924.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1105,14,negotiation,already_using_competitor,14098.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1106,19,closing,no_budget,4575.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1107,4,demo,need_more_features,4095.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1108,8,closing,price_too_high,1340.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1109,9,discovery,no_budget,20094.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1110,6,demo,need_more_features,12743.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1111,23,demo,need_more_features,54907.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1112,6,demo,already_using_competitor,7398.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1113,22,closing,need_more_features,9984.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1114,5,closing,security_compliance_concern,41460.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1115,13,closing,implementation_time_concern,6251.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1116,19,closing,need_stakeholder_buyin,3180.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1117,19,negotiation,need_stakeholder_buyin,16706.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1118,9,demo,already_using_competitor,11575.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1119,9,demo,price_too_high,18779.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1120,0,closing,not_a_priority_now,56165.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1121,9,demo,need_more_features,62175.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1122,17,demo,need_more_features,4552.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1123,1,negotiation,implementation_time_concern,47355.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1124,16,negotiation,already_using_competitor,5253.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1125,22,discovery,no_budget,3159.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1126,24,negotiation,price_too_high,1979.0,1,0,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1127,13,demo,no_budget,7694.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1128,23,demo,need_more_features,7062.0,1,0,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1129,19,closing,implementation_time_concern,11616.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1130,24,demo,price_too_high,6907.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1131,6,discovery,not_a_priority_now,11671.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1132,13,closing,not_a_priority_now,32627.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1133,1,negotiation,no_budget,6157.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1134,21,negotiation,implementation_time_concern,15362.0,0,1,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1135,17,discovery,security_compliance_concern,16219.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1136,5,discovery,already_using_competitor,19602.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1137,4,negotiation,need_stakeholder_buyin,1812.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1138,20,demo,already_using_competitor,5816.0,0,1,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1139,16,discovery,price_too_high,4033.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1140,20,demo,not_a_priority_now,2803.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1141,10,negotiation,need_stakeholder_buyin,4337.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1142,3,demo,not_a_priority_now,32396.0,1,1,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1143,5,negotiation,already_using_competitor,2186.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1144,5,discovery,need_stakeholder_buyin,26935.0,1,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1145,2,closing,security_compliance_concern,4227.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1146,1,closing,security_compliance_concern,8838.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1147,11,closing,security_compliance_concern,11245.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1148,15,closing,need_stakeholder_buyin,7751.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1149,0,closing,need_stakeholder_buyin,1979.0,1,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: used recommended battlecard play.
+1150,5,negotiation,need_stakeholder_buyin,11121.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1151,12,demo,not_a_priority_now,1785.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1152,10,demo,need_more_features,16285.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1153,23,demo,need_more_features,2290.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1154,20,negotiation,need_more_features,34893.0,0,1,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1155,1,negotiation,not_a_priority_now,1000.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1156,17,closing,price_too_high,18432.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1157,21,discovery,not_a_priority_now,12765.0,1,0,[Prospect]: objection raised re: not a priority now. [Rep]: used recommended battlecard play.
+1158,7,discovery,implementation_time_concern,12724.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1159,24,closing,implementation_time_concern,1572.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1160,10,negotiation,security_compliance_concern,6895.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1161,15,closing,already_using_competitor,12610.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1162,16,negotiation,implementation_time_concern,5425.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1163,8,closing,already_using_competitor,5984.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1164,2,closing,implementation_time_concern,2099.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1165,19,demo,security_compliance_concern,4028.0,1,1,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1166,14,closing,implementation_time_concern,5561.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1167,20,discovery,need_stakeholder_buyin,10811.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1168,15,closing,need_stakeholder_buyin,13192.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1169,21,closing,already_using_competitor,45959.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1170,5,discovery,need_stakeholder_buyin,2605.0,0,0,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1171,9,negotiation,need_more_features,3813.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1172,22,demo,security_compliance_concern,10582.0,1,0,[Prospect]: objection raised re: security compliance concern. [Rep]: used recommended battlecard play.
+1173,0,demo,no_budget,2306.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1174,20,closing,not_a_priority_now,12828.0,0,0,[Prospect]: objection raised re: not a priority now. [Rep]: improvised response.
+1175,24,closing,price_too_high,15812.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1176,9,closing,need_more_features,7033.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1177,18,discovery,implementation_time_concern,7020.0,1,1,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1178,22,demo,price_too_high,14183.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1179,19,negotiation,need_more_features,4847.0,0,0,[Prospect]: objection raised re: need more features. [Rep]: improvised response.
+1180,7,negotiation,price_too_high,12465.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1181,13,closing,no_budget,1000.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+1182,18,demo,price_too_high,9309.0,0,0,[Prospect]: objection raised re: price too high. [Rep]: improvised response.
+1183,8,negotiation,implementation_time_concern,2859.0,0,0,[Prospect]: objection raised re: implementation time concern. [Rep]: improvised response.
+1184,9,negotiation,need_more_features,4427.0,1,1,[Prospect]: objection raised re: need more features. [Rep]: used recommended battlecard play.
+1185,23,closing,security_compliance_concern,5321.0,0,1,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1186,18,discovery,already_using_competitor,12670.0,1,0,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1187,24,negotiation,price_too_high,6608.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1188,8,closing,implementation_time_concern,10599.0,1,0,[Prospect]: objection raised re: implementation time concern. [Rep]: used recommended battlecard play.
+1189,6,discovery,no_budget,13385.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+1190,15,closing,no_budget,8488.0,1,1,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1191,6,demo,already_using_competitor,15134.0,0,0,[Prospect]: objection raised re: already using competitor. [Rep]: improvised response.
+1192,7,closing,need_stakeholder_buyin,23332.0,0,1,[Prospect]: objection raised re: need stakeholder buyin. [Rep]: improvised response.
+1193,12,negotiation,price_too_high,1474.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1194,0,discovery,security_compliance_concern,1152.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.
+1195,10,demo,no_budget,3610.0,0,0,[Prospect]: objection raised re: no budget. [Rep]: improvised response.
+1196,2,closing,price_too_high,5254.0,1,1,[Prospect]: objection raised re: price too high. [Rep]: used recommended battlecard play.
+1197,0,discovery,no_budget,7651.0,1,0,[Prospect]: objection raised re: no budget. [Rep]: used recommended battlecard play.
+1198,10,discovery,already_using_competitor,2790.0,1,1,[Prospect]: objection raised re: already using competitor. [Rep]: used recommended battlecard play.
+1199,17,closing,security_compliance_concern,2722.0,0,0,[Prospect]: objection raised re: security compliance concern. [Rep]: improvised response.

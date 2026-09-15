@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+fastapi>=0.110
+uvicorn>=0.29
+pytest>=8.0
+anthropic>=0.40   # optional: only needed if ANTHROPIC_API_KEY is set for real LLM calls

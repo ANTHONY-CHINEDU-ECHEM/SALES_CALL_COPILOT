@@ -1,0 +1,6 @@
+{
+  "n_calls_evaluated": 80,
+  "rubric_vs_human_correlation": 0.8289,
+  "meets_080_agreement_target": true,
+  "note": "human_scores are a simulated proxy (rubric score + rater noise), not real coach ratings -- this validates the rubric's internal consistency, not true inter-rater reliability. See docs/EXTENDING.md for the real human-coach study design."
+}

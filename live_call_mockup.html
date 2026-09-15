@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sales Call Copilot — Live Call Mockup</title>
+<style>
+  body { font-family: -apple-system, sans-serif; background:#12141A; color:#fff; padding:2rem; }
+  .call-window { max-width:700px; margin:auto; }
+  .transcript { background:#1C202A; border-radius:10px; padding:1rem; margin-bottom:1rem; }
+  .objection-tag { display:inline-block; background:#FF6B5B; color:#000; padding:2px 10px; border-radius:12px; font-size:0.8rem; font-weight:bold; }
+  .suggestion { background:#232838; border-left:3px solid #FF6B5B; padding:1rem; border-radius:6px; }
+  .citation { color:#9BA3B4; font-size:0.85rem; margin-top:0.5rem; }
+  .latency { color:#6E7686; font-size:0.75rem; }
+</style>
+</head>
+<body>
+<div class="call-window">
+  <h2>🎙️ Live Call — Objection Detected</h2>
+  <div class="transcript">
+    <span class="objection-tag">PRICE TOO HIGH</span>
+    <p>"Honestly this feels too expensive for what our budget allows right now."</p>
+  </div>
+  <div class="suggestion">
+    <strong>💡 Suggested response:</strong>
+    <p>Ask which fiscal quarter budget resets, and offer a start-now-pay-later contract
+    structure tied to their next budget cycle. Anchor to the cost of inaction over that gap.</p>
+    <div class="citation">Source: Budget-Cycle Timing Battlecard (doc_id=2)</div>
+  </div>
+  <p class="latency">Suggestion generated in 14ms</p>
+</div>
+<!-- Static mockup illustrating the live-call coaching UI described in the
+     portfolio briefing. Wire to api/server.py's /coach endpoint + a
+     WebSocket transcript stream for a real interactive version. -->
+</body>
+</html>
